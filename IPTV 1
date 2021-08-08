@@ -1,0 +1,857 @@
+#EXTM3U
+#EXTINF:-1 radio="false" tvg-id="rtk.al" tvg-name="AL: RTK 1 HD" tvg-logo="http://www.albepg.com/tvlogi/RTK%201.png" group-title="Albania",AL: RTK 1 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/5
+#EXTINF:-1 radio="false" tvg-id="RTK 1" tvg-name="AL: RTK 1 SD" tvg-logo="http://www.albepg.com/tvlogi/RTK%201.png" group-title="Albania",AL: RTK 1 SD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/2240
+#EXTINF:-1 radio="false" tvg-name="AL: RTK 3 HD" tvg-logo="http://www.albepg.com/tvlogi/RTK%203.png" group-title="Albania",AL: RTK 3 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/7
+#EXTINF:-1 radio="false" tvg-name="AL: RTK 4 HD" tvg-logo="http://www.albepg.com/tvlogi/RTK%204.png" group-title="Albania",AL: RTK 4 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/8
+#EXTINF:-1 radio="false" tvg-id="TeleSport" tvg-name="AL: RTV 21 HD" tvg-logo="http://www.albepg.com/tvlogi/RTV%2021%20HD.png" group-title="Albania",AL: RTV 21 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/12
+#EXTINF:-1 radio="false" tvg-id="RTV 21 HD" tvg-name="AL: RTV 21 SD" tvg-logo="http://www.albepg.com/tvlogi/RTV%2021%20HD.png" group-title="Albania",AL: RTV 21 SD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/2236
+#EXTINF:-1 radio="false" tvg-id="TeleSport" tvg-name="AL: Klan Kosova HD" tvg-logo="http://www.albepg.com/tvlogi/Klan%20Kosova.png" group-title="Albania",AL: Klan Kosova HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/10
+#EXTINF:-1 radio="false" tvg-id="TeleSport" tvg-name="AL: First Channel HD" tvg-logo="http://www.albepg.com/tvlogi/first%20CHANNEL.png" group-title="Albania",AL: First Channel HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/23
+#EXTINF:-1 radio="false" tvg-name="AL: TV Dukagjini HD" tvg-logo="http://www.albepg.com/tvlogi/TV%20Dukagjini.png" group-title="Albania",AL: TV Dukagjini HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/18
+#EXTINF:-1 radio="false" tvg-name="AL: TV Dukagjini SD" tvg-logo="http://www.albepg.com/tvlogi/TV%20Dukagjini.png" group-title="Albania",AL: TV Dukagjini SD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/2239
+#EXTINF:-1 radio="false" tvg-id="Klan TV HD" tvg-name="AL: Klan TV HD" tvg-logo="http://www.albepg.com/tvlogi/Klan%20TV%20HD.png" group-title="Albania",AL: Klan TV HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/3
+#EXTINF:-1 radio="false" tvg-id="Klan Plus" tvg-name="AL: Klan Plus HD" tvg-logo="http://www.albepg.com/tvlogi/Klan%20Plus.png" group-title="Albania",AL: Klan Plus HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/4
+#EXTINF:-1 radio="false" tvg-id="Klan Plus" tvg-name="AL: Klan Plus SD" tvg-logo="http://www.albepg.com/tvlogi/Klan%20Plus.png" group-title="Albania",AL: Klan Plus SD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/2237
+#EXTINF:-1 radio="false" tvg-id="Klan Macedonia" tvg-name="AL: Klan Macedonia HD" tvg-logo="http://www.albepg.com/tvlogi/Klan%20Macedonia.png" group-title="Albania",AL: Klan Macedonia HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/11
+#EXTINF:-1 radio="false" tvg-id="topchannel.al" tvg-name="AL: Top Channel HD" tvg-logo="http://www.albepg.com/tvlogi/Top%20Channel%20HD.png" group-title="Albania",AL: Top Channel HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/2
+#EXTINF:-1 radio="false" tvg-id="Top Channel HD" tvg-name="AL: Top Channel SD" tvg-logo="http://www.albepg.com/tvlogi/Top%20Channel%20HD.png" group-title="Albania",AL: Top Channel SD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/2235
+#EXTINF:-1 radio="false" tvg-id="TeleSport" tvg-name="AL: KTV HD" tvg-logo="http://www.albepg.com/tvlogi/Koha%20Vision%20HD.png" group-title="Albania",AL: KTV HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/9
+#EXTINF:-1 radio="false" tvg-id="TeleSport" tvg-name="AL: KTV SD" tvg-logo="http://www.albepg.com/tvlogi/KTV.png" group-title="Albania",AL: KTV SD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/2238
+#EXTINF:-1 radio="false" tvg-id="TeleSport" tvg-name="AL: T7 HD" tvg-logo="http://www.albepg.com/tvlogi/T7.png" group-title="Albania",AL: T7 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/19
+#EXTINF:-1 radio="false" tvg-id="TeleSport" tvg-name="AL: Kanal 10 HD" tvg-logo="https://tivivo.al/logokanale/kanal10.png" group-title="Albania",AL: Kanal 10 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/43
+#EXTINF:-1 radio="false" tvg-id="Vizion Plus HD" tvg-name="AL: Vizion Plus HD" tvg-logo="http://www.albepg.com/tvlogi/Vizion%20Plus.png" group-title="Albania",AL: Vizion Plus HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/20
+#EXTINF:-1 radio="false" tvg-id="Vizion Plus HD" tvg-name="AL: Vizion Plus SD" tvg-logo="http://www.albepg.com/tvlogi/Vizion%20Plus.png" group-title="Albania",AL: Vizion Plus SD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/2433
+#EXTINF:-1 radio="false" tvg-name="AL: Era TV" tvg-logo="https://i.postimg.cc/nLzmJDX9/ERA-TV.png" group-title="Albania",AL: Era TV
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/2589
+#EXTINF:-1 radio="false" tvg-name="AL: Scan TV" tvg-logo="https://i.ibb.co/WnK1hhz/download.jpg" group-title="Albania",AL: Scan TV
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/46
+#EXTINF:-1 radio="false" tvg-name="AL: TV Dielli HD" tvg-logo="http://www.albepg.com/tvlogi/TV%20DIELLI.png" group-title="Albania",AL: TV Dielli HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/44
+#EXTINF:-1 radio="false" tvg-name="AL: TV Globi HD" tvg-logo="https://i.postimg.cc/FRk502b3/Globi.png" group-title="Albania",AL: TV Globi HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/45
+#EXTINF:-1 radio="false" tvg-name="AL: TV Koha HD" tvg-logo="http://www.albepg.com/tvlogi/Koha%20TV.png" group-title="Albania",AL: TV Koha HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/22
+#EXTINF:-1 radio="false" tvg-id="Alsat-M-AL" tvg-name="AL: Alsat M HD" tvg-logo="https://tivivo.al/logokanale/alsatmk.png" group-title="Albania",AL: Alsat M HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/1
+#EXTINF:-1 radio="false" tvg-id="RTSH3 HD" tvg-name="AL: Alsat M SD" tvg-logo="https://tivivo.al/logokanale/alsatmk.png" group-title="Albania",AL: Alsat M SD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/2234
+#EXTINF:-1 radio="false" tvg-id="Shenja TV" tvg-name="AL: TV Shenja HD" tvg-logo="http://www.albepg.com/tvlogi/Shenja%20TV.png" group-title="Albania",AL: TV Shenja HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/21
+#EXTINF:-1 radio="false" tvg-id="RTSH1 HD" tvg-name="AL: RTSH 1 HD" tvg-logo="http://www.albepg.com/tvlogi/RTSH1%20HD.png" group-title="Albania",AL: RTSH 1 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/24
+#EXTINF:-1 radio="false" tvg-id="RTSH2 HD" tvg-name="AL: RTSH 2 HD" tvg-logo="http://www.albepg.com/tvlogi/RTSH2%20HD.png" group-title="Albania",AL: RTSH 2 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/25
+#EXTINF:-1 radio="false" tvg-name="AL: RTSH 3 HD" tvg-logo="http://www.albepg.com/tvlogi/RTSH3%20HD.png" group-title="Albania",AL: RTSH 3 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/26
+#EXTINF:-1 radio="false" tvg-name="AL: RTSH Korça HD" tvg-logo="http://www.albepg.com/tvlogi/RTSH%20Korca.png" group-title="Albania",AL: RTSH Korça HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/33
+#EXTINF:-1 radio="false" tvg-name="AL: RTSH Plus HD" tvg-logo="http://www.albepg.com/tvlogi/RTSH%20Plus.png" group-title="Albania",AL: RTSH Plus HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/31
+#EXTINF:-1 radio="false" tvg-name="AL: RTSH Shqip HD" tvg-logo="http://www.albepg.com/tvlogi/RTSH%20Shqip.png" group-title="Albania",AL: RTSH Shqip HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/30
+#EXTINF:-1 radio="false" tvg-name="AL: RTV 21 Mix HD" tvg-logo="https://i.postimg.cc/RFMrDXHb/21mix.png" group-title="Albania",AL: RTV 21 Mix HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/16
+#EXTINF:-1 radio="false" tvg-id="RTV 21 MK" tvg-name="AL: RTV 21 MK HD" tvg-logo="http://www.albepg.com/tvlogi/RTV%2021%20MK.png" group-title="Albania",AL: RTV 21 MK HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/13
+#EXTINF:-1 radio="false" tvg-id="rtv21plus.al" tvg-name="AL: RTV 21 Plus HD" tvg-logo="https://i.postimg.cc/RCprg1VX/21plus.png" group-title="Albania",AL: RTV 21 Plus HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/14
+#EXTINF:-1 radio="false" tvg-name="AL: Besa TV" tvg-logo="http://www.albepg.com/tvlogi/TV%20Besa.png" group-title="Albania",AL: Besa TV
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/1926
+#EXTINF:-1 radio="false" tvg-name="AL: TV Mitrovica" tvg-logo="https://tivivo.al/logokanale/mitrovica.png" group-title="Albania",AL: TV Mitrovica
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/1850
+#EXTINF:-1 radio="false" tvg-name="AL: Pito Stupcat HD" tvg-logo="https://tivivo.al/logokanale/pitostupcat.png" group-title="Albania",AL: Pito Stupcat HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/2141
+#EXTINF:-1 radio="false" tvg-name="AL: Pito Humor HD" tvg-logo="https://tivivo.al/logokanale/pitohumor.png" group-title="Albania",AL: Pito Humor HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/2142
+#EXTINF:-1 radio="false" tvg-name="AL: Art Prime HD" tvg-logo="http://www.albepg.com/tvlogi/PRIME.png" group-title="Albania",AL: Art Prime HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/2677
+#EXTINF:-1 radio="false" tvg-name="AL: Episode TV HD" tvg-logo="https://i.postimg.cc/9XvLK3Wr/Episode-TV.png" group-title="Albania",AL: Episode TV HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/134
+#EXTINF:-1 radio="false" tvg-name="AL: Lugina Serial TR " tvg-logo="https://tivivo.al/logokanale/luginaserialtr.png" group-title="Albania",AL: Lugina Serial TR
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/2680
+#EXTINF:-1 radio="false" tvg-name="AL: Q Stupcat HD" tvg-logo="https://tivivo.al/logokanale/qstupcat.png" group-title="Albania",AL: Q Stupcat HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/2148
+#EXTINF:-1 radio="false" tvg-name="AL: Q Humor HD" tvg-logo="https://tivivo.al/logokanale/qhumor.png" group-title="Albania",AL: Q Humor HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/2149
+#EXTINF:-1 radio="false" tvg-name="AL: Alb Dreams" group-title="Albania",AL: Alb Dreams
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/2638
+#EXTINF:-1 radio="false" tvg-name="AL: RTV Fontana" tvg-logo="https://tivivo.al/logokanale/rtvfontana.png" group-title="Albania",AL: RTV Fontana
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/2644
+#EXTINF:-1 radio="false" tvg-name="AL: ATV HD" tvg-logo="https://i.ibb.co/Pt1mswP/122406938-132972128566861-30103165548199426-n.png" group-title="Albania",AL: ATV HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/2689
+#EXTINF:-1 radio="false" tvg-name="AL: A2 CNN" tvg-logo="https://i.ibb.co/1rsHSSx/A2-CNN-logo-punajuaj-cp3.png" group-title="Lajme",AL: A2 CNN
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/42
+#EXTINF:-1 radio="false" tvg-name="AL: RTSH 24 HD" tvg-logo="http://www.albepg.com/tvlogi/RTSH%2024.png" group-title="Lajme",AL: RTSH 24 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/27
+#EXTINF:-1 radio="false" tvg-id="Top News" tvg-name="AL: Top News HD" tvg-logo="http://www.albepg.com/tvlogi/Top%20News.png" group-title="Lajme",AL: Top News HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/34
+#EXTINF:-1 radio="false" tvg-id="TeleSport" tvg-name="AL: Arta HD" tvg-logo="http://www.albepg.com/tvlogi/Arta%20HD.png" group-title="Lajme",AL: Arta HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/39
+#EXTINF:-1 radio="false" tvg-id="ABC News" tvg-name="AL: ABC News HD" tvg-logo="http://www.albepg.com/tvlogi/ABC%20News.png" group-title="Lajme",AL: ABC News HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/37
+#EXTINF:-1 radio="false" tvg-id="News 24" tvg-name="AL: News 24 HD" tvg-logo="http://www.albepg.com/tvlogi/News%2024.png" group-title="Lajme",AL: News 24 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/36
+#EXTINF:-1 radio="false" tvg-id="Ora News" tvg-name="AL: Ora News HD" tvg-logo="http://www.albepg.com/tvlogi/Ora%20News.png" group-title="Lajme",AL: Ora News HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/38
+#EXTINF:-1 radio="false" tvg-id="TeleSport" tvg-name="AL: Fax News HD" tvg-logo="http://www.albepg.com/tvlogi/Fax%20News.png" group-title="Lajme",AL: Fax News HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/40
+#EXTINF:-1 radio="false" tvg-id="7 News" tvg-name="AL: Kanali 7 HD" tvg-logo="http://www.albepg.com/tvlogi/7%20News.png" group-title="Lajme",AL: Kanali 7 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/35
+#EXTINF:-1 radio="false" tvg-name="AL: Report TV" group-title="Lajme",AL: Report TV
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/2693
+#EXTINF:-1 radio="false" tvg-name="AL: RTSH Muzikë HD" tvg-logo="http://www.albepg.com/tvlogi/RTSH%20Muzike.png" group-title="Muzikë",AL: RTSH Muzikë HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/29
+#EXTINF:-1 radio="false" tvg-id="expshkence.al" tvg-name="AL: RTV 21 Popullore HD" tvg-logo="https://i.postimg.cc/YqT5HpFF/21popullore.png" group-title="Muzikë",AL: RTV 21 Popullore HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/15
+#EXTINF:-1 radio="false" tvg-name="AL: Shota TV" tvg-logo="https://tivivo.al/logokanale/shotatv.png" group-title="Muzikë",AL: Shota TV
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/1403
+#EXTINF:-1 radio="false" tvg-id="Elrodi TV" tvg-name="AL: Elrodi TV" tvg-logo="https://tivivo.al/logokanale/elrodimusic.png" group-title="Muzikë",AL: Elrodi TV
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/1401
+#EXTINF:-1 radio="false" tvg-name="AL: Alb UK HD" tvg-logo="http://www.albepg.com/tvlogi/ALBUK%20TV.png" group-title="Muzikë",AL: Alb UK HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/1402
+#EXTINF:-1 radio="false" tvg-name="AL: Alb Music HD" tvg-logo="http://www.albepg.com/tvlogi/ALB%20MUSIC%20HD.png" group-title="Muzikë",AL: Alb Music HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/155
+#EXTINF:-1 radio="false" tvg-name="AL: Amol TV HD" tvg-logo="http://www.albepg.com/tvlogi/AMOL.png" group-title="Muzikë",AL: Amol TV HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/143
+#EXTINF:-1 radio="false" tvg-name="AL: BBF Music TV HD" tvg-logo="http://www.albepg.com/tvlogi/BBF.png" group-title="Muzikë",AL: BBF Music TV HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/144
+#EXTINF:-1 radio="false" tvg-id="Click TV" tvg-name="AL: Click TV HD" tvg-logo="http://www.albepg.com/tvlogi/Click%20TV.png" group-title="Muzikë",AL: Click TV HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/149
+#EXTINF:-1 radio="false" tvg-name="AL: Folk Plus HD" tvg-logo="http://www.albepg.com/tvlogi/Folk%20Plus.png" group-title="Muzikë",AL: Folk Plus HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/157
+#EXTINF:-1 radio="false" tvg-name="AL: MTV Hits" group-title="Muzikë",AL: MTV Hits
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/166
+#EXTINF:-1 radio="false" tvg-name="AL: Dasma TV HD" tvg-logo="http://www.albepg.com/tvlogi/Dasma%20TV.png" group-title="Muzikë",AL: Dasma TV HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/145
+#EXTINF:-1 radio="false" tvg-name="AL: Euro AL HD" tvg-logo="http://www.albepg.com/tvlogi/EuroAL.png" group-title="Muzikë",AL: Euro AL HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/154
+#EXTINF:-1 radio="false" tvg-name="AL: Top Estrada HD" tvg-logo="https://tivivo.al/logokanale/topestrada.png" group-title="Muzikë",AL: Top Estrada HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/156
+#EXTINF:-1 radio="false" tvg-id="My Music" tvg-name="AL: My Music HD" tvg-logo="https://tivivo.al/logokanale/mymusic.png" group-title="Muzikë",AL: My Music HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/150
+#EXTINF:-1 radio="false" tvg-name="AL: RTV Sharri HD" tvg-logo="https://tivivo.al/logokanale/tvsharri.png" group-title="Muzikë",AL: RTV Sharri HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/152
+#EXTINF:-1 radio="false" tvg-name="AL: Klan Music HD" tvg-logo="https://i.ibb.co/qN4mCfn/klanmusic.png" group-title="Muzikë",AL: Klan Music HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/153
+#EXTINF:-1 radio="false" tvg-id="MTV Live HD" tvg-name="AL: MTV Kosova" tvg-logo="http://www.albepg.com/tvlogi/MTV%20Kosova.png" group-title="Muzikë",AL: MTV Kosova
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/151
+#EXTINF:-1 radio="false" tvg-name="AL: TV Opoja HD" tvg-logo="http://www.albepg.com/tvlogi/TV%20Opoja.png" group-title="Muzikë",AL: TV Opoja HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/146
+#EXTINF:-1 radio="false" tvg-id="SuperSonic TV" tvg-name="AL: Supersonic TV" tvg-logo="http://www.albepg.com/tvlogi/SuperSonic%20TV.png" group-title="Muzikë",AL: Supersonic TV
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/147
+#EXTINF:-1 radio="false" tvg-name="AL: X Music Hits HD" tvg-logo="https://tivivo.al/logokanale/xmusichits.png" group-title="Muzikë",AL: X Music Hits HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/2674
+#EXTINF:-1 radio="false" tvg-name="AL: X Popullore HD" tvg-logo="https://tivivo.al/logokanale/xpopullore.png" group-title="Muzikë",AL: X Popullore HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/2675
+#EXTINF:-1 radio="false" tvg-name="AL: X Çifteli HD" tvg-logo="https://tivivo.al/logokanale/xcifteli.png" group-title="Muzikë",AL: X Çifteli HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/2676
+#EXTINF:-1 radio="false" tvg-name="AL: Q Muzikë HD" tvg-logo="https://tivivo.al/logokanale/qmuzike.png" group-title="Muzikë",AL: Q Muzikë HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/148
+#EXTINF:-1 radio="false" tvg-name="AL: Q Popullore HD" tvg-logo="https://tivivo.al/logokanale/qpopullore.png" group-title="Muzikë",AL: Q Popullore HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/2625
+#EXTINF:-1 radio="false" tvg-name="AL: Lugina Music HD" tvg-logo="https://tivivo.al/logokanale/luginamusic.png" group-title="Muzikë",AL: Lugina Music HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/86
+#EXTINF:-1 radio="false" tvg-name="AL: Fox Movies " tvg-logo="https://i.postimg.cc/0j0K9BjH/foxmovies-white-rgb-orig.png" group-title="Filma",AL: Fox Movies
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/1847
+#EXTINF:-1 radio="false" tvg-id="FOX Life" tvg-name="AL: Fox Life " tvg-logo="https://i.postimg.cc/Qd9NbzsG/kissclipart-fox-life-logo-png-clipart-logo-fox-life-brand-0fa8b2.png" group-title="Filma",AL: Fox Life
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/1848
+#EXTINF:-1 radio="false" tvg-id="FOX" tvg-name="AL: Fox HD" tvg-logo="https://i.postimg.cc/D0Nk42SW/fox-tv-png-2.png" group-title="Filma",AL: Fox HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/1849
+#EXTINF:-1 radio="false" tvg-name="AL: Art Kino 1 HD" tvg-logo="https://i.postimg.cc/fLydTbvD/ArtKino1.png" group-title="Filma",AL: Art Kino 1 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/129
+#EXTINF:-1 radio="false" tvg-name="AL: Art Kino 2 HD" tvg-logo="https://i.postimg.cc/43BtgcVW/ArtKino2.png" group-title="Filma",AL: Art Kino 2 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/130
+#EXTINF:-1 radio="false" tvg-name="AL: Art Kino 3 HD" tvg-logo="https://i.postimg.cc/wvrmtdWJ/ArtKino3.png" group-title="Filma",AL: Art Kino 3 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/131
+#EXTINF:-1 radio="false" tvg-name="AL: Eurofilm HD" tvg-logo="http://www.albepg.com/tvlogi/EUROFILM.png" group-title="Filma",AL: Eurofilm HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/57
+#EXTINF:-1 radio="false" tvg-id="Film Aksion" tvg-name="AL: Film Aksion HD" tvg-logo="http://www.albepg.com/tvlogi/Film%20Aksion.png" group-title="Filma",AL: Film Aksion HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/49
+#EXTINF:-1 radio="false" tvg-name="AL: Film Autor HD" tvg-logo="http://www.albepg.com/tvlogi/Film%20Autor.png" group-title="Filma",AL: Film Autor HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/50
+#EXTINF:-1 radio="false" tvg-id="Film Drame" tvg-name="AL: Film Dramë HD" tvg-logo="http://www.albepg.com/tvlogi/Film%20Drame.png" group-title="Filma",AL: Film Dramë HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/51
+#EXTINF:-1 radio="false" tvg-id="Film Dy HD" tvg-name="AL: Film Dy HD" tvg-logo="http://www.albepg.com/tvlogi/Film%20Dy%20HD.png" group-title="Filma",AL: Film Dy HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/48
+#EXTINF:-1 radio="false" tvg-id="Film Hits" tvg-name="AL: Film Hits HD" tvg-logo="http://www.albepg.com/tvlogi/Film%20Hits.png" group-title="Filma",AL: Film Hits HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/52
+#EXTINF:-1 radio="false" tvg-id="Film Komedi" tvg-name="AL: Film Komedi HD" tvg-logo="http://www.albepg.com/tvlogi/Film%20Komedi.png" group-title="Filma",AL: Film Komedi HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/53
+#EXTINF:-1 radio="false" tvg-id="Film Nje HD" tvg-name="AL: Film Një HD" tvg-logo="http://www.albepg.com/tvlogi/Film%20Nje%20HD.png" group-title="Filma",AL: Film Një HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/47
+#EXTINF:-1 radio="false" tvg-name="AL: Film Stinët HD" tvg-logo="http://www.albepg.com/tvlogi/Stinet.png" group-title="Filma",AL: Film Stinët HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/54
+#EXTINF:-1 radio="false" tvg-id="Film Thriller" tvg-name="AL: Film Thriller HD" tvg-logo="http://www.albepg.com/tvlogi/Film%20Thriller.png" group-title="Filma",AL: Film Thriller HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/55
+#EXTINF:-1 radio="false" tvg-name="AL: TDC HD" tvg-logo="https://i.postimg.cc/ZqWf0rrL/tdc-logo-color.png" group-title="Filma",AL: TDC HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/1927
+#EXTINF:-1 radio="false" tvg-id="T HD" tvg-name="AL: T HD" tvg-logo="http://www.albepg.com/tvlogi/T%20HD.png" group-title="Filma",AL: T HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/56
+#EXTINF:-1 radio="false" tvg-id="3 Plus" tvg-name="AL: Tring 3 Plus HD" tvg-logo="http://www.albepg.com/tvlogi/3%20Plus.png" group-title="Filma",AL: Tring 3 Plus HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/69
+#EXTINF:-1 radio="false" tvg-id="Tring Action" tvg-name="AL: Tring Action HD" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Action.png" group-title="Filma",AL: Tring Action HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/58
+#EXTINF:-1 radio="false" tvg-id="Tring Comedy" tvg-name="AL: Tring Comedy HD" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Comedy.png" group-title="Filma",AL: Tring Comedy HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/59
+#EXTINF:-1 radio="false" tvg-id="Tring Fantasy" tvg-name="AL: Tring Fantasy HD" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Fantasy.png" group-title="Filma",AL: Tring Fantasy HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/60
+#EXTINF:-1 radio="false" tvg-id="Jolly HD" tvg-name="AL: Tring Jolly HD" tvg-logo="http://www.albepg.com/tvlogi/Jolly%20HD.png" group-title="Filma",AL: Tring Jolly HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/67
+#EXTINF:-1 radio="false" tvg-id="Tring Life" tvg-name="AL: Tring Life HD" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Life.png" group-title="Filma",AL: Tring Life HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/61
+#EXTINF:-1 radio="false" tvg-id="Living HD" tvg-name="AL: Tring Living HD" tvg-logo="http://www.albepg.com/tvlogi/Living%20HD.png" group-title="Filma",AL: Tring Living HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/68
+#EXTINF:-1 radio="false" tvg-id="Tring Shqip" tvg-name="AL: Tring Shqip HD" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Shqip.png" group-title="Filma",AL: Tring Shqip HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/63
+#EXTINF:-1 radio="false" tvg-id="Smile" tvg-name="AL: Tring Smile HD" tvg-logo="http://www.albepg.com/tvlogi/Smile.png" group-title="Filma",AL: Tring Smile HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/64
+#EXTINF:-1 radio="false" tvg-id="Tring Super" tvg-name="AL: Tring Super HD" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Super.png" group-title="Filma",AL: Tring Super HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/65
+#EXTINF:-1 radio="false" tvg-id="KanalD Drama" tvg-name="AL: Kanal D Drama HD" tvg-logo="https://i.postimg.cc/8PShQnJz/Kanal-D-Drama-Latin-America.png" group-title="Filma",AL: Kanal D Drama HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/2470
+#EXTINF:-1 radio="false" tvg-name="AL: X Premium 1 HD" tvg-logo="http://www.albepg.com/tvlogi/Kino%20Premiere%201%20HD.png" group-title="Filma",AL: X Premium 1 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/70
+#EXTINF:-1 radio="false" tvg-name="AL: X Premium 2 HD" tvg-logo="http://www.albepg.com/tvlogi/Kino%20Premiere%202%20HD.png" group-title="Filma",AL: X Premium 2 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/71
+#EXTINF:-1 radio="false" tvg-name="AL: Teleone Fantazi" tvg-logo="http://www.albepg.com/tvlogi/Kino%20Premiere%203%20HD.png" group-title="Filma",AL: Teleone Fantazi
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/72
+#EXTINF:-1 radio="false" tvg-name="AL: Dark Netflix 5 HD" tvg-logo="http://www.albepg.com/tvlogi/Kino%20Premiere%204%20HD.png" group-title="Filma",AL: Dark Netflix 5 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/93
+#EXTINF:-1 radio="false" tvg-name="AL: X Gold 1 HD" tvg-logo="http://tivivo.al/logokanale/xgold1.png" group-title="Filma",AL: X Gold 1 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/87
+#EXTINF:-1 radio="false" tvg-name="AL: X Gold 2 HD" tvg-logo="http://tivivo.al/logokanale/xgold2.png" group-title="Filma",AL: X Gold 2 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/88
+#EXTINF:-1 radio="false" tvg-name="AL: Teleone Crime" tvg-logo="http://tivivo.al/logokanale/xgold3.png" group-title="Filma",AL: Teleone Crime
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/2201
+#EXTINF:-1 radio="false" tvg-name="AL: Teleone Gold" tvg-logo="http://tivivo.al/logokanale/xgold4.png" group-title="Filma",AL: Teleone Gold
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/89
+#EXTINF:-1 radio="false" tvg-name="AL: X Action HD" tvg-logo="https://tivivo.al/logokanale/xaction.png" group-title="Filma",AL: X Action HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/74
+#EXTINF:-1 radio="false" tvg-name="AL: X Comedy HD" tvg-logo="https://tivivo.al/logokanale/xcomedy.png" group-title="Filma",AL: X Comedy HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/75
+#EXTINF:-1 radio="false" tvg-name="AL: Teleone Drama" tvg-logo="https://tivivo.al/logokanale/xdark.png" group-title="Filma",AL: Teleone Drama
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/76
+#EXTINF:-1 radio="false" tvg-name="AL: X Drama HD" tvg-logo="https://tivivo.al/logokanale/xdrama.png" group-title="Filma",AL: X Drama HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/77
+#EXTINF:-1 radio="false" tvg-name="AL: Dark Netflix 1 HD" tvg-logo="https://tivivo.al/logokanale/xromance.png" group-title="Filma",AL: Dark Netflix 1 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/79
+#EXTINF:-1 radio="false" tvg-name="AL: X Family HD" tvg-logo="https://tivivo.al/logokanale/xfamily.png" group-title="Filma",AL: X Family HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/78
+#EXTINF:-1 radio="false" tvg-name="AL: Dark Netflix 2 HD" tvg-logo="https://tivivo.al/logokanale/sci-fi.png" group-title="Filma",AL: Dark Netflix 2 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/80
+#EXTINF:-1 radio="false" tvg-name="AL: Dark Netflix 3 HD" tvg-logo="https://tivivo.al/logokanale/xthriller.png" group-title="Filma",AL: Dark Netflix 3 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/81
+#EXTINF:-1 radio="false" tvg-name="AL: Dark Netflix 4 HD" tvg-logo="https://tivivo.al/logokanale/xwestern.png" group-title="Filma",AL: Dark Netflix 4 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/82
+#EXTINF:-1 radio="false" tvg-name="AL: First Premium 1 HD" tvg-logo="https://tivivo.al/logokanale/firstpremium.png" group-title="Filma",AL: First Premium 1 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/73
+#EXTINF:-1 radio="false" tvg-name="AL: First Action HD" tvg-logo="https://tivivo.al/logokanale/firstaction.png" group-title="Filma",AL: First Action HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/94
+#EXTINF:-1 radio="false" tvg-name="AL: First Thriller HD" tvg-logo="https://tivivo.al/logokanale/firstthriller.png" group-title="Filma",AL: First Thriller HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/92
+#EXTINF:-1 radio="false" tvg-name="AL: First Comedy HD" tvg-logo="https://tivivo.al/logokanale/firstcomedy.png" group-title="Filma",AL: First Comedy HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/2639
+#EXTINF:-1 radio="false" tvg-name="AL: First Family HD" tvg-logo="https://tivivo.al/logokanale/firstfamily.png" group-title="Filma",AL: First Family HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/2641
+#EXTINF:-1 radio="false" tvg-name="AL: First Dramë" tvg-logo="https://tivivo.al/logokanale/firstdrame.png" group-title="Filma",AL: First Dramë
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/2640
+#EXTINF:-1 radio="false" tvg-name="AL: Lugina Film HD" tvg-logo="https://tivivo.al/logokanale/luginafilm.png" group-title="Filma",AL: Lugina Film HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/2682
+#EXTINF:-1 radio="false" tvg-name="AL: Lugina Prank HD" tvg-logo="https://tivivo.al/logokanale/luginaprank.png" group-title="Filma",AL: Lugina Prank HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/2681
+#EXTINF:-1 radio="false" tvg-name="AL: Lugina Shqip HD" tvg-logo="https://tivivo.al/logokanale/luginashqip.png" group-title="Filma",AL: Lugina Shqip HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/2679
+#EXTINF:-1 radio="false" tvg-name="AL: Lugina Serial HD" tvg-logo="https://tivivo.al/logokanale/luginaserial.png" group-title="Filma",AL: Lugina Serial HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/91
+#EXTINF:-1 radio="false" tvg-name="AL: Tele One 1 HD" tvg-logo="https://tivivo.al/logokanale/teleone.png" group-title="Filma",AL: Tele One 1 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/2176
+#EXTINF:-1 radio="false" tvg-name="AL: Tele One 2 HD" tvg-logo="https://tivivo.al/logokanale/teleone.png" group-title="Filma",AL: Tele One 2 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/2177
+#EXTINF:-1 radio="false" tvg-name="AL: Tele One 3 HD" tvg-logo="https://tivivo.al/logokanale/teleone.png" group-title="Filma",AL: Tele One 3 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/2178
+#EXTINF:-1 radio="false" tvg-name="AL: Tele One 4 HD" tvg-logo="https://tivivo.al/logokanale/teleone.png" group-title="Filma",AL: Tele One 4 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/2179
+#EXTINF:-1 radio="false" tvg-name="AL: Tele One 5 HD" tvg-logo="https://tivivo.al/logokanale/teleone.png" group-title="Filma",AL: Tele One 5 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/2180
+#EXTINF:-1 radio="false" tvg-name="AL: Tele One 6 HD" tvg-logo="https://tivivo.al/logokanale/teleone.png" group-title="Filma",AL: Tele One 6 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/2181
+#EXTINF:-1 radio="false" tvg-name="AL: Kinema Milenium 1 HD" tvg-logo="https://tivivo.al/logokanale/kinemamilenium.png" group-title="Filma",AL: Kinema Milenium 1 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/2200
+#EXTINF:-1 radio="false" tvg-name="AL: Kinema Milenium 2 HD" tvg-logo="https://tivivo.al/logokanale/kinemamilenium.png" group-title="Filma",AL: Kinema Milenium 2 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/2678
+#EXTINF:-1 radio="false" tvg-name="AL: Kinema Milenium 3 HD" tvg-logo="https://tivivo.al/logokanale/kinemamilenium.png" group-title="Filma",AL: Kinema Milenium 3 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/2202
+#EXTINF:-1 radio="false" tvg-name="AL: Kinema Milenium 4 HD" tvg-logo="https://tivivo.al/logokanale/kinemamilenium.png" group-title="Filma",AL: Kinema Milenium 4 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/2203
+#EXTINF:-1 radio="false" tvg-name="AL: Kinema Aksion Max HD" tvg-logo="https://tivivo.al/logokanale/kinemamax.png" group-title="Filma",AL: Kinema Aksion Max HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/2194
+#EXTINF:-1 radio="false" tvg-name="AL: Teleone Thriller" tvg-logo="https://tivivo.al/logokanale/kinemamax.png" group-title="Filma",AL: Teleone Thriller
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/2199
+#EXTINF:-1 radio="false" tvg-name="AL: Kinema Max 2 HD" tvg-logo="https://tivivo.al/logokanale/kinemamax.png" group-title="Filma",AL: Kinema Max 2 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/2198
+#EXTINF:-1 radio="false" tvg-name="AL: Kinema Station HD" tvg-logo="https://tivivo.al/logokanale/kinemastation.png" group-title="Filma",AL: Kinema Station HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/2195
+#EXTINF:-1 radio="false" tvg-name="AL: Kinema Comedy HD" tvg-logo="https://tivivo.al/logokanale/kinemacomedy.png" group-title="Filma",AL: Kinema Comedy HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/2196
+#EXTINF:-1 radio="false" tvg-name="AL: Kinema Family HD" tvg-logo="https://tivivo.al/logokanale/kinemafamily.png" group-title="Filma",AL: Kinema Family HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/2197
+#EXTINF:-1 radio="false" tvg-name="AL: Kinema Republika" tvg-logo="https://tivivo.al/logokanale/kinemamilenium.png" group-title="Filma",AL: Kinema Republika
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/2188
+#EXTINF:-1 radio="false" tvg-name="AL: Kinema Partizani" tvg-logo="https://tivivo.al/logokanale/kinemamilenium.png" group-title="Filma",AL: Kinema Partizani
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/2189
+#EXTINF:-1 radio="false" tvg-name="AL: Kinema 17 Nëntori" tvg-logo="https://tivivo.al/logokanale/kinemamilenium.png" group-title="Filma",AL: Kinema 17 Nëntori
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/2190
+#EXTINF:-1 radio="false" tvg-name="AL: Kinema Agimi" tvg-logo="https://tivivo.al/logokanale/kinemamilenium.png" group-title="Filma",AL: Kinema Agimi
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/2191
+#EXTINF:-1 radio="false" tvg-name="AL: Kinema Dajti" tvg-logo="https://tivivo.al/logokanale/kinemamilenium.png" group-title="Filma",AL: Kinema Dajti
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/2192
+#EXTINF:-1 radio="false" tvg-name="AL: Q Premium 1 HD" tvg-logo="https://tivivo.al/logokanale/qpremium1.png" group-title="Filma",AL: Q Premium 1 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/2143
+#EXTINF:-1 radio="false" tvg-name="AL: Q Premium 2 HD" tvg-logo="https://tivivo.al/logokanale/qpremium2.png" group-title="Filma",AL: Q Premium 2 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/2144
+#EXTINF:-1 radio="false" tvg-name="AL: Q Premium 3 HD" tvg-logo="https://tivivo.al/logokanale/qpremium3.png" group-title="Filma",AL: Q Premium 3 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/2145
+#EXTINF:-1 radio="false" tvg-name="AL: Q Premium 4 HD" tvg-logo="https://tivivo.al/logokanale/qpremium4.png" group-title="Filma",AL: Q Premium 4 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/2146
+#EXTINF:-1 radio="false" tvg-name="AL: Q Premium 5 HD" tvg-logo="https://tivivo.al/logokanale/qpremium5.png" group-title="Filma",AL: Q Premium 5 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/2147
+#EXTINF:-1 radio="false" tvg-name="AL: Q Hindi 1 HD" tvg-logo="https://tivivo.al/logokanale/qhindi1.png" group-title="Filma",AL: Q Hindi 1 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/2150
+#EXTINF:-1 radio="false" tvg-name="AL: Q Hindi 2 HD" tvg-logo="https://tivivo.al/logokanale/qhindi2.png" group-title="Filma",AL: Q Hindi 2 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/2151
+#EXTINF:-1 radio="false" tvg-name="AL: Q Action HD" tvg-logo="https://tivivo.al/logokanale/qaction.png" group-title="Filma",AL: Q Action HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/2152
+#EXTINF:-1 radio="false" tvg-name="AL: Q Thriller HD" tvg-logo="https://tivivo.al/logokanale/qthriller.png" group-title="Filma",AL: Q Thriller HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/2153
+#EXTINF:-1 radio="false" tvg-name="AL: RTSH Film HD" tvg-logo="http://www.albepg.com/tvlogi/RTSH%20Film.png" group-title="Filma",AL: RTSH Film HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/28
+#EXTINF:-1 radio="false" tvg-name="AL: Sky Aksion HD" tvg-logo="http://www.albepg.com/tvlogi/Sky%20Aksion.png" group-title="Filma",AL: Sky Aksion HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/135
+#EXTINF:-1 radio="false" tvg-name="AL: Sky Dramë HD" tvg-logo="http://www.albepg.com/tvlogi/Sky%20Comedy.png" group-title="Filma",AL: Sky Dramë HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/136
+#EXTINF:-1 radio="false" tvg-name="AL: Sky Max HD" tvg-logo="http://www.albepg.com/tvlogi/Sky%20Humor.png" group-title="Filma",AL: Sky Max HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/138
+#EXTINF:-1 radio="false" tvg-name="AL: Sky Novela HD" tvg-logo="http://www.albepg.com/tvlogi/Sky%20Novela.png" group-title="Filma",AL: Sky Novela HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/137
+#EXTINF:-1 radio="false" tvg-name="AL: Art Doku 1 HD" tvg-logo="https://i.postimg.cc/wj5LwZv8/ArtDoku1.png" group-title="Dokumentar",AL: Art Doku 1 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/132
+#EXTINF:-1 radio="false" tvg-name="AL: Art Doku 2 HD" tvg-logo="https://i.postimg.cc/mrbMJjzc/ArtDoku2.png" group-title="Dokumentar",AL: Art Doku 2 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/133
+#EXTINF:-1 radio="false" tvg-id="EXPLORER Histori" tvg-name="AL: Explorer Histori HD" tvg-logo="http://www.albepg.com/tvlogi/EXPLORER%20Histori.png" group-title="Dokumentar",AL: Explorer Histori HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/142
+#EXTINF:-1 radio="false" tvg-id="EXPLORER Natyra" tvg-name="AL: Explorer Natyra HD" tvg-logo="http://www.albepg.com/tvlogi/EXPLORER%20Natyra.png" group-title="Dokumentar",AL: Explorer Natyra HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/141
+#EXTINF:-1 radio="false" tvg-id="EXPLORER Shkence" tvg-name="AL: Explorer Shkencë HD" tvg-logo="http://www.albepg.com/tvlogi/EXPLORER%20Shkence.png" group-title="Dokumentar",AL: Explorer Shkencë HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/140
+#EXTINF:-1 radio="false" tvg-id="Tring Planet" tvg-name="AL: Tring Planet HD" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Planet.png" group-title="Dokumentar",AL: Tring Planet HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/62
+#EXTINF:-1 radio="false" tvg-id="Tring World" tvg-name="AL: Tring World HD" tvg-logo="http://www.albepg.com/tvlogi/Tring%20World.png" group-title="Dokumentar",AL: Tring World HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/66
+#EXTINF:-1 radio="false" tvg-name="AL: Sky Shkenca HD" tvg-logo="http://www.albepg.com/tvlogi/Sky%20Shkenca.png" group-title="Dokumentar",AL: Sky Shkenca HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/139
+#EXTINF:-1 radio="false" tvg-name="AL: DTX HD" tvg-logo="https://i.postimg.cc/qRGZHmk1/DTX-Logo.png" group-title="Dokumentar",AL: DTX HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/1843
+#EXTINF:-1 radio="false" tvg-id="ID Xtra HD" tvg-name="AL: ID Xtra HD" tvg-logo="https://i.postimg.cc/L5bDmwG3/ID-Extra-HD.png" group-title="Dokumentar",AL: ID Xtra HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/1844
+#EXTINF:-1 radio="false" tvg-id="expshkence.al" tvg-name="AL: Travel Channel HD" tvg-logo="http://www.albepg.com/tvlogi/Travel%20Channel.png" group-title="Dokumentar",AL: Travel Channel HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/1842
+#EXTINF:-1 radio="false" tvg-id="National Geographic" tvg-name="AL: National Geographic HD" tvg-logo="https://i.postimg.cc/RC6PvQMC/national-geographic-logo-png-ng-logo-white-png-2000.png" group-title="Dokumentar",AL: National Geographic HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/1841
+#EXTINF:-1 radio="false" tvg-name="AL: Discovery Science HD" tvg-logo="https://i.postimg.cc/CKrNgdXf/1200px-Discovery-Science-2017-Logo-svg.png" group-title="Dokumentar",AL: Discovery Science HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/1845
+#EXTINF:-1 radio="false" tvg-name="AL: Discovery Channel HD" tvg-logo="https://i.postimg.cc/gJ6vbs3f/Discovery-HD-Showcase-2012.png" group-title="Dokumentar",AL: Discovery Channel HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/1846
+#EXTINF:-1 radio="false" tvg-name="For Sama - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mDna51F8QfrJFZOgPGQUz3VKqsB.jpg" group-title="Dokumentar",For Sama - 2019
+http://restream.tivivo.cc:25461/movie/BdIjOm4sLn/1MFDsv2Ybe/2427.mp4
+#EXTINF:-1 radio="false" tvg-id="Tring Kids" tvg-name="AL: Tring Kids HD" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Kids.png" group-title="Fëmijët",AL: Tring Kids HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/164
+#EXTINF:-1 radio="false" tvg-id="Tring Tring" tvg-name="AL: Tring Tring HD" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Tring.png" group-title="Fëmijët",AL: Tring Tring HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/165
+#EXTINF:-1 radio="false" tvg-name="AL: Sofia HD" tvg-logo="http://www.albepg.com/tvlogi/Sofia.png" group-title="Fëmijët",AL: Sofia HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/162
+#EXTINF:-1 radio="false" tvg-id="TeleSport" tvg-name="AL: Baby TV HD" tvg-logo="http://www.albepg.com/tvlogi/Baby%20TV.png" group-title="Fëmijët",AL: Baby TV HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/159
+#EXTINF:-1 radio="false" tvg-id="Bang Bang" tvg-name="AL: Bang Bang HD" tvg-logo="http://www.albepg.com/tvlogi/Bang%20Bang.png" group-title="Fëmijët",AL: Bang Bang HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/160
+#EXTINF:-1 radio="false" tvg-id="Cufo TV" tvg-name="AL: Cufo HD" tvg-logo="http://www.albepg.com/tvlogi/Cufo%20TV.png" group-title="Fëmijët",AL: Cufo HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/161
+#EXTINF:-1 radio="false" tvg-id="Junior" tvg-name="AL: Junior TV HD" tvg-logo="http://www.albepg.com/tvlogi/Junior.png" group-title="Fëmijët",AL: Junior TV HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/158
+#EXTINF:-1 radio="false" tvg-id="Tip TV" tvg-name="AL: Tip TV HD" tvg-logo="http://www.albepg.com/tvlogi/Tip%20TV.png" group-title="Fëmijët",AL: Tip TV HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/163
+#EXTINF:-1 radio="false" tvg-name="AL: Kënge për femijë HD" tvg-logo="https://i.postimg.cc/d0ssKfFf/abc-song-icon.png" group-title="Fëmijët",AL: Kënge për femijë HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/2154
+#EXTINF:-1 radio="false" tvg-name="AL: Kids Box " tvg-logo="https://i.postimg.cc/pVhn7mqF/KBLogo.png" group-title="Fëmijët",AL: Kids Box
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/2155
+#EXTINF:-1 radio="false" tvg-name="AL: Prince Kids HD" tvg-logo="http://www.albepg.com/tvlogi/Prince%20Kids.png" group-title="Fëmijët",AL: Prince Kids HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/2171
+#EXTINF:-1 radio="false" tvg-name="AL: BimBam Bum TV" tvg-logo="https://tivivo.al/logokanale/bimbam.png" group-title="Fëmijët",AL: BimBam Bum TV
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/1393
+#EXTINF:-1 radio="false" tvg-name="AL: Tom & Jerry" tvg-logo="https://i.postimg.cc/fydqBdbR/Duck.png" group-title="Fëmijët",AL: Tom & Jerry
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/1394
+#EXTINF:-1 radio="false" tvg-name="AL: Lugina Kids HD" tvg-logo="https://tivivo.al/logokanale/luginakids.png" group-title="Fëmijët",AL: Lugina Kids HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/95
+#EXTINF:-1 radio="false" tvg-name="AL: Medina Live HD" tvg-logo="https://i.postimg.cc/7Y7bMRP3/Medina.png" group-title="Islam",AL: Medina Live HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/96
+#EXTINF:-1 radio="false" tvg-name="AL: Mekka Live HD" tvg-logo="https://i.postimg.cc/kM6023wy/makkah-channel-redcolor-1440-alpha-570x716.png" group-title="Islam",AL: Mekka Live HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/97
+#EXTINF:-1 radio="false" tvg-id="TeleSport" tvg-name="AL: Peace TV HD" tvg-logo="http://www.albepg.com/tvlogi/Peace%20TV.png" group-title="Islam",AL: Peace TV HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/98
+#EXTINF:-1 radio="false" tvg-name="AL: RTV Islam HD" tvg-logo="http://www.albepg.com/tvlogi/RTV%20Islam.png" group-title="Islam",AL: RTV Islam HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/99
+#EXTINF:-1 radio="false" tvg-name="AL: RTV Pendimi HD" tvg-logo="https://i.postimg.cc/cC2kcHmc/LOGO-FULL-HD.png" group-title="Islam",AL: RTV Pendimi HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/100
+#EXTINF:-1 radio="false" tvg-name="AL: Lugina Islam HD" tvg-logo="https://tivivo.al/logokanale/luginaislam.png" group-title="Islam",AL: Lugina Islam HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/2172
+#EXTINF:-1 radio="false" tvg-name="AL: Lugina Kuran HD" tvg-logo="https://tivivo.al/logokanale/luginakuran.png" group-title="Islam",AL: Lugina Kuran HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/2173
+#EXTINF:-1 radio="false" tvg-name="AL: Lugina Ilahi HD" tvg-logo="https://tivivo.al/logokanale/luginailahi.png" group-title="Islam",AL: Lugina Ilahi HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/2174
+#EXTINF:-1 radio="false" tvg-name="AL: RTV 1 Albania HD" tvg-logo="https://i.postimg.cc/2jgNCqkZ/rtv1.png" group-title="Islam",AL: RTV 1 Albania HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/2588
+#EXTINF:-1 radio="false" tvg-id="SuperSport 1" tvg-name="AL: Super Sport 1 FHD" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%201.png" group-title="Sport",AL: Super Sport 1 FHD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/475
+#EXTINF:-1 radio="false" tvg-id="SuperSport 1" tvg-name="AL: Super Sport 1 HD" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%201.png" group-title="Sport",AL: Super Sport 1 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/979
+#EXTINF:-1 radio="false" tvg-id="SuperSport 2" tvg-name="AL: Super Sport 2 FHD" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%202.png" group-title="Sport",AL: Super Sport 2 FHD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/476
+#EXTINF:-1 radio="false" tvg-id="SuperSport 2" tvg-name="AL: Super Sport 2 HD" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%202.png" group-title="Sport",AL: Super Sport 2 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/980
+#EXTINF:-1 radio="false" tvg-id="SuperSport 3" tvg-name="AL: Super Sport 3 FHD" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%203.png" group-title="Sport",AL: Super Sport 3 FHD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/477
+#EXTINF:-1 radio="false" tvg-id="SuperSport 3" tvg-name="AL: Super Sport 3 HD" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%203.png" group-title="Sport",AL: Super Sport 3 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/981
+#EXTINF:-1 radio="false" tvg-id="SuperSport 4" tvg-name="AL: Super Sport 4 FHD" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%204.png" group-title="Sport",AL: Super Sport 4 FHD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/478
+#EXTINF:-1 radio="false" tvg-id="SuperSport 4" tvg-name="AL: Super Sport 4 HD" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%204.png" group-title="Sport",AL: Super Sport 4 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/982
+#EXTINF:-1 radio="false" tvg-id="SuperSport 5" tvg-name="AL: Super Sport 5 FHD" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%205.png" group-title="Sport",AL: Super Sport 5 FHD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/479
+#EXTINF:-1 radio="false" tvg-id="SuperSport 5" tvg-name="AL: Super Sport 5 HD" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%205.png" group-title="Sport",AL: Super Sport 5 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/983
+#EXTINF:-1 radio="false" tvg-id="Tring Sport 1 HD" tvg-name="AL: Tring Sport 1 FHD" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%201%20HD.png" group-title="Sport",AL: Tring Sport 1 FHD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/480
+#EXTINF:-1 radio="false" tvg-id="Tring Sport 2 HD" tvg-name="AL: Tring Sport 2 FHD" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%202%20HD.png" group-title="Sport",AL: Tring Sport 2 FHD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/481
+#EXTINF:-1 radio="false" tvg-id="Tring Sport 3 HD" tvg-name="AL: Tring Sport 3 FHD" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%203%20HD.png" group-title="Sport",AL: Tring Sport 3 FHD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/482
+#EXTINF:-1 radio="false" tvg-id="Tring Sport 4 HD" tvg-name="AL: Tring Sport 4 FHD" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%204%20HD.png" group-title="Sport",AL: Tring Sport 4 FHD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/483
+#EXTINF:-1 radio="false" tvg-name="AL: Kujtesa Sport 1 HD" tvg-logo="https://tivivo.al/logokanale/kujtesa1.png" group-title="Sport",AL: Kujtesa Sport 1 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/484
+#EXTINF:-1 radio="false" tvg-name="AL: Kujtesa Sport 2 HD" tvg-logo="https://tivivo.al/logokanale/kujtesa2.png" group-title="Sport",AL: Kujtesa Sport 2 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/485
+#EXTINF:-1 radio="false" tvg-name="AL: Kujtesa Sport 3 HD" tvg-logo="https://tivivo.al/logokanale/kujtesa3.png" group-title="Sport",AL: Kujtesa Sport 3 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/486
+#EXTINF:-1 radio="false" tvg-name="AL: Kujtesa Sport 4 HD" tvg-logo="https://tivivo.al/logokanale/kujtesa4.png" group-title="Sport",AL: Kujtesa Sport 4 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/487
+#EXTINF:-1 radio="false" tvg-name="AL: Kujtesa Sport 5 HD" tvg-logo="https://tivivo.al/logokanale/kujtesa5.png" group-title="Sport",AL: Kujtesa Sport 5 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/488
+#EXTINF:-1 radio="false" tvg-name="AL: Art Sport 1 HD" tvg-logo="https://i.postimg.cc/FzJJ3nq6/Art-Sport1.png" group-title="Sport",AL: Art Sport 1 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/489
+#EXTINF:-1 radio="false" tvg-name="AL: Art Sport 2 HD" tvg-logo="https://i.postimg.cc/gcwMgcbC/Art-Sport2.png" group-title="Sport",AL: Art Sport 2 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/490
+#EXTINF:-1 radio="false" tvg-name="AL: Art Sport 3 HD" tvg-logo="https://i.postimg.cc/HjD8291k/Art-Sport3.png" group-title="Sport",AL: Art Sport 3 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/491
+#EXTINF:-1 radio="false" tvg-name="CRO: Arena Sport 1 HD" tvg-logo="https://i.postimg.cc/sXHB0hBv/arena1-logo.png" group-title="Sport",CRO: Arena Sport 1 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/492
+#EXTINF:-1 radio="false" tvg-name="CRO: Arena Sport 2 HD" tvg-logo="https://i.postimg.cc/brGGXwbL/logo-arena2.png" group-title="Sport",CRO: Arena Sport 2 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/493
+#EXTINF:-1 radio="false" tvg-name="CRO: Arena Sport 3 HD" tvg-logo="https://i.postimg.cc/J7gDNjVF/logo-arena3.png" group-title="Sport",CRO: Arena Sport 3 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/494
+#EXTINF:-1 radio="false" tvg-name="CRO: Arena Sport 4 HD" tvg-logo="https://i.postimg.cc/PrwL2Nd5/logo-arena4.png" group-title="Sport",CRO: Arena Sport 4 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/495
+#EXTINF:-1 radio="false" tvg-name="CRO: Arena Sport 5 HD" tvg-logo="https://i.postimg.cc/Fz2YhXVv/arena5-logo.png" group-title="Sport",CRO: Arena Sport 5 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/496
+#EXTINF:-1 radio="false" tvg-name="CRO: Arena Sport 6 HD" tvg-logo="https://i.postimg.cc/QdndD38y/250x250-arena6.png" group-title="Sport",CRO: Arena Sport 6 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/497
+#EXTINF:-1 radio="false" tvg-name="CRO: Sport Klub 1 HD" tvg-logo="https://i.postimg.cc/5NycVFXf/sport-klub.png" group-title="Sport",CRO: Sport Klub 1 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/499
+#EXTINF:-1 radio="false" tvg-name="CRO: Sport Klub 2 HD" tvg-logo="https://i.postimg.cc/RVDkVVtK/sport-klub-2.png" group-title="Sport",CRO: Sport Klub 2 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/500
+#EXTINF:-1 radio="false" tvg-name="CRO: Sport Klub 3 HD" tvg-logo="https://i.postimg.cc/Nj2Wyq8V/sport-klub-3.png" group-title="Sport",CRO: Sport Klub 3 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/501
+#EXTINF:-1 radio="false" tvg-name="CRO: Sport Klub 4 HD" tvg-logo="https://i.postimg.cc/3wMzmSnw/sport-klub-4.png" group-title="Sport",CRO: Sport Klub 4 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/502
+#EXTINF:-1 radio="false" tvg-name="SRB: Arena Sport 1 HD" tvg-logo="https://i.postimg.cc/sXHB0hBv/arena1-logo.png" group-title="Sport",SRB: Arena Sport 1 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/503
+#EXTINF:-1 radio="false" tvg-name="SRB: Arena Sport 2 HD" tvg-logo="https://i.postimg.cc/brGGXwbL/logo-arena2.png" group-title="Sport",SRB: Arena Sport 2 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/504
+#EXTINF:-1 radio="false" tvg-name="SRB: Arena Sport 3 HD" tvg-logo="https://i.postimg.cc/J7gDNjVF/logo-arena3.png" group-title="Sport",SRB: Arena Sport 3 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/505
+#EXTINF:-1 radio="false" tvg-name="SRB: Arena Sport 4 HD" tvg-logo="https://i.postimg.cc/PrwL2Nd5/logo-arena4.png" group-title="Sport",SRB: Arena Sport 4 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/506
+#EXTINF:-1 radio="false" tvg-name="SRB: Arena Sport 5 HD" tvg-logo="https://i.postimg.cc/Fz2YhXVv/arena5-logo.png" group-title="Sport",SRB: Arena Sport 5 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/507
+#EXTINF:-1 radio="false" tvg-name="SRB: Sport Klub 1 HD" tvg-logo="https://i.postimg.cc/5NycVFXf/sport-klub.png" group-title="Sport",SRB: Sport Klub 1 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/508
+#EXTINF:-1 radio="false" tvg-name="SRB: Sport Klub 2 HD" tvg-logo="https://i.postimg.cc/RVDkVVtK/sport-klub-2.png" group-title="Sport",SRB: Sport Klub 2 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/509
+#EXTINF:-1 radio="false" tvg-name="SRB: Sport Klub 3 HD" tvg-logo="https://i.postimg.cc/Nj2Wyq8V/sport-klub-3.png" group-title="Sport",SRB: Sport Klub 3 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/510
+#EXTINF:-1 radio="false" tvg-name="SRB: Sport Klub 4 HD" tvg-logo="https://i.postimg.cc/3wMzmSnw/sport-klub-4.png" group-title="Sport",SRB: Sport Klub 4 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/511
+#EXTINF:-1 radio="false" tvg-name="CRO: Planet Sport 1 HD" tvg-logo="https://i.postimg.cc/RF134DbJ/650.png" group-title="Sport",CRO: Planet Sport 1 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/1568
+#EXTINF:-1 radio="false" tvg-name="CRO: Planet Sport 2 HD" tvg-logo="https://i.postimg.cc/KjZ1zDdq/651.png" group-title="Sport",CRO: Planet Sport 2 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/1569
+#EXTINF:-1 radio="false" tvg-name="CRO: Planet Sport 3 HD" tvg-logo="https://i.postimg.cc/BQzv93Qw/652.png" group-title="Sport",CRO: Planet Sport 3 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/1570
+#EXTINF:-1 radio="false" tvg-name="CRO: Planet Sport 4 HD" tvg-logo="https://i.postimg.cc/0jcbJJv8/653.png" group-title="Sport",CRO: Planet Sport 4 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/1571
+#EXTINF:-1 radio="false" tvg-name="CRO: Planet Sport 5 HD" tvg-logo="https://i.postimg.cc/nVksWND6/654.png" group-title="Sport",CRO: Planet Sport 5 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/1572
+#EXTINF:-1 radio="false" tvg-name="CRO: Nova Sport HD" tvg-logo="https://tivivo.al/logokanale/novasporthr.png" group-title="Sport",CRO: Nova Sport HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/1110
+#EXTINF:-1 radio="false" tvg-name="DE: Dazn Sport 1 HD" tvg-logo="https://tivivo.al/logokanale/dazn1.png" group-title="Sport",DE: Dazn Sport 1 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/1405
+#EXTINF:-1 radio="false" tvg-name="DE: Dazn Sport 2 HD" tvg-logo="https://tivivo.al/logokanale/dazn2.png" group-title="Sport",DE: Dazn Sport 2 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/1406
+#EXTINF:-1 radio="false" tvg-id="skysportnews.de" tvg-name="DE: Sky Sport News HD" tvg-logo="https://tivivo.al/logokanale/sportnewsde.png" group-title="Sport",DE: Sky Sport News HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/398
+#EXTINF:-1 radio="false" tvg-name="DE: Sky Sport 1 HD" tvg-logo="https://tivivo.al/logokanale/deskysport1.png" group-title="Sport",DE: Sky Sport 1 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/409
+#EXTINF:-1 radio="false" tvg-name="DE: Sky Sport 2 FHD" tvg-logo="https://tivivo.al/logokanale/deskysport2.png" group-title="Sport",DE: Sky Sport 2 FHD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/410
+#EXTINF:-1 radio="false" tvg-name="DE: Sky Sport 3 HD (Match Time)" tvg-logo="https://tivivo.al/logokanale/deskysport3.png" group-title="Sport",DE: Sky Sport 3 HD (Match Time)
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/411
+#EXTINF:-1 radio="false" tvg-name="DE: Sky Sport 4 HD (Match Time)" tvg-logo="https://tivivo.al/logokanale/deskysport4.png" group-title="Sport",DE: Sky Sport 4 HD (Match Time)
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/412
+#EXTINF:-1 radio="false" tvg-name="DE: Sky Sport 5 HD (Match Time)" tvg-logo="https://tivivo.al/logokanale/deskysport5.png" group-title="Sport",DE: Sky Sport 5 HD (Match Time)
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/413
+#EXTINF:-1 radio="false" tvg-name="DE: Sky Sport 6 HD (Match Time)" tvg-logo="https://tivivo.al/logokanale/deskysport6.png" group-title="Sport",DE: Sky Sport 6 HD (Match Time)
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/414
+#EXTINF:-1 radio="false" tvg-name="DE: Sky Sport 7 HD (Match Time)" tvg-logo="https://tivivo.al/logokanale/deskysport7.png" group-title="Sport",DE: Sky Sport 7 HD (Match Time)
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/415
+#EXTINF:-1 radio="false" tvg-name="DE: Sky Sport 8 HD (Match Time)" tvg-logo="https://tivivo.al/logokanale/deskysport8.png" group-title="Sport",DE: Sky Sport 8 HD (Match Time)
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/416
+#EXTINF:-1 radio="false" tvg-name="DE: Sky Sport 9 HD (Match Time)" tvg-logo="https://tivivo.al/logokanale/deskysport9.png" group-title="Sport",DE: Sky Sport 9 HD (Match Time)
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/417
+#EXTINF:-1 radio="false" tvg-name="DE: Sky Sport 10 HD (Match Time)" tvg-logo="https://tivivo.al/logokanale/deskysport10.png" group-title="Sport",DE: Sky Sport 10 HD (Match Time)
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/418
+#EXTINF:-1 radio="false" tvg-id="skysportaustria.de" tvg-name="DE: Sky Sport Austria 1 HD" tvg-logo="https://tivivo.al/logokanale/skysport1austria.png" group-title="Sport",DE: Sky Sport Austria 1 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/399
+#EXTINF:-1 radio="false" tvg-name="DE: Sky Sport Bundesliga 1 HD" tvg-logo="https://tivivo.al/logokanale/bundesliga1.png" group-title="Sport",DE: Sky Sport Bundesliga 1 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/420
+#EXTINF:-1 radio="false" tvg-name="DE: Sky Sport Bundesliga 2 HD" tvg-logo="https://tivivo.al/logokanale/bundesliga2.png" group-title="Sport",DE: Sky Sport Bundesliga 2 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/421
+#EXTINF:-1 radio="false" tvg-name="DE: Sky Sport Bundesliga 3 HD" tvg-logo="https://tivivo.al/logokanale/bundesliga3.png" group-title="Sport",DE: Sky Sport Bundesliga 3 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/422
+#EXTINF:-1 radio="false" tvg-name="DE: Sky Sport Bundesliga 4 HD (Match Time)" tvg-logo="https://tivivo.al/logokanale/bundesliga4.png" group-title="Sport",DE: Sky Sport Bundesliga 4 HD (Match Time)
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/423
+#EXTINF:-1 radio="false" tvg-name="DE: Sky Sport Bundesliga 5 HD (Match Time)" tvg-logo="https://tivivo.al/logokanale/bundesliga5.png" group-title="Sport",DE: Sky Sport Bundesliga 5 HD (Match Time)
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/424
+#EXTINF:-1 radio="false" tvg-name="DE: Sky Sport Bundesliga 6 HD (Match Time)" tvg-logo="https://tivivo.al/logokanale/bundesliga6.png" group-title="Sport",DE: Sky Sport Bundesliga 6 HD (Match Time)
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/425
+#EXTINF:-1 radio="false" tvg-name="DE: Sky Sport Bundesliga 7 HD (Match Time)" tvg-logo="https://tivivo.al/logokanale/bundesliga7.png" group-title="Sport",DE: Sky Sport Bundesliga 7 HD (Match Time)
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/426
+#EXTINF:-1 radio="false" tvg-name="DE: Sky Sport Bundesliga 8 HD (Match Time)" tvg-logo="https://tivivo.al/logokanale/bundesliga8.png" group-title="Sport",DE: Sky Sport Bundesliga 8 HD (Match Time)
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/427
+#EXTINF:-1 radio="false" tvg-name="DE: Sky Sport Bundesliga 9 HD (Match Time)" tvg-logo="https://tivivo.al/logokanale/bundesliga9.png" group-title="Sport",DE: Sky Sport Bundesliga 9 HD (Match Time)
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/428
+#EXTINF:-1 radio="false" tvg-name="DE: Sky Sport Bundesliga 10 HD (Match Time)" tvg-logo="https://tivivo.al/logokanale/bundesliga10.png" group-title="Sport",DE: Sky Sport Bundesliga 10 HD (Match Time)
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/429
+#EXTINF:-1 radio="false" tvg-name="DE: Auto Motor Sport FHD" group-title="Sport",DE: Auto Motor Sport FHD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/400
+#EXTINF:-1 radio="false" tvg-id="dazn.de" tvg-name="DE: ORF Sport HD +" tvg-logo="https://tivivo.al/logokanale/orfsport.png" group-title="Sport",DE: ORF Sport HD +
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/402
+#EXTINF:-1 radio="false" tvg-name="DE: Sport +1 HD" tvg-logo="https://tivivo.al/logokanale/sport1.png" group-title="Sport",DE: Sport +1 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/404
+#EXTINF:-1 radio="false" tvg-id="sportdigital.de" tvg-name="DE: SportDigital HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Sport-Digital_hd.svg/120px-Sport-Digital_hd.svg.png" group-title="Sport",DE: SportDigital HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/361
+#EXTINF:-1 radio="false" tvg-id="eurosport1.de" tvg-name="DE: Eurosport 1 HD" tvg-logo="https://tivivo.al/logokanale/eurosport-1.png" group-title="Sport",DE: Eurosport 1 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/406
+#EXTINF:-1 radio="false" tvg-id="eurosport2.de" tvg-name="DE: Eurosport 2 HD" tvg-logo="https://tivivo.al/logokanale/eurosport-2.png" group-title="Sport",DE: Eurosport 2 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/407
+#EXTINF:-1 radio="false" tvg-name="DE: Eurosport 2 Extra HD" tvg-logo="https://tivivo.al/logokanale/eurosport2xtra.png" group-title="Sport",DE: Eurosport 2 Extra HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/408
+#EXTINF:-1 radio="false" tvg-id="notorvision.de" tvg-name="DE: Motorvision TV HD" tvg-logo="https://tivivo.al/logokanale/motorvisiontv.png" group-title="Sport",DE: Motorvision TV HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/401
+#EXTINF:-1 radio="false" tvg-id="fubball1.de" tvg-name="DE: Magenta Sport 1 HD" tvg-logo="https://tivivo.al/logokanale/magentasport.png" group-title="Sport",DE: Magenta Sport 1 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/2626
+#EXTINF:-1 radio="false" tvg-id="fubball2.de" tvg-name="DE: Magenta Sport 2 HD" tvg-logo="https://tivivo.al/logokanale/magentasport.png" group-title="Sport",DE: Magenta Sport 2 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/2627
+#EXTINF:-1 radio="false" tvg-id="fubball3.de" tvg-name="DE: Magenta Sport 3 HD" tvg-logo="https://tivivo.al/logokanale/magentasport.png" group-title="Sport",DE: Magenta Sport 3 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/2628
+#EXTINF:-1 radio="false" tvg-id="fubball4.de" tvg-name="DE: Magenta Sport 4 HD" tvg-logo="https://tivivo.al/logokanale/magentasport.png" group-title="Sport",DE: Magenta Sport 4 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/2629
+#EXTINF:-1 radio="false" tvg-id="fubball5.de" tvg-name="DE: Magenta Sport 5 HD" tvg-logo="https://tivivo.al/logokanale/magentasport.png" group-title="Sport",DE: Magenta Sport 5 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/2630
+#EXTINF:-1 radio="false" tvg-id="fubball6.de" tvg-name="DE: Magenta Sport 6 HD" tvg-logo="https://tivivo.al/logokanale/magentasport.png" group-title="Sport",DE: Magenta Sport 6 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/2631
+#EXTINF:-1 radio="false" tvg-id="fubball7.de" tvg-name="DE: Magenta Women Bundesliga HD" tvg-logo="https://tivivo.al/logokanale/magentasport.png" group-title="Sport",DE: Magenta Women Bundesliga HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/2632
+#EXTINF:-1 radio="false" tvg-name="AR: beIN Sports 1 HD" tvg-logo="https://tivivo.al/logokanale/bein1ar.png" group-title="Sport",AR: beIN Sports 1 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/512
+#EXTINF:-1 radio="false" tvg-name="AR: beIN Sports 2 HD" tvg-logo="https://tivivo.al/logokanale/bein2ar.png" group-title="Sport",AR: beIN Sports 2 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/513
+#EXTINF:-1 radio="false" tvg-name="AR: beIN Sports 3 HD" tvg-logo="https://tivivo.al/logokanale/bein3ar.png" group-title="Sport",AR: beIN Sports 3 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/514
+#EXTINF:-1 radio="false" tvg-name="AR: beIN Sports 4 HD" tvg-logo="https://tivivo.al/logokanale/bein4ar.png" group-title="Sport",AR: beIN Sports 4 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/515
+#EXTINF:-1 radio="false" tvg-name="AR: beIN Sports 5 HD" tvg-logo="https://tivivo.al/logokanale/bein5ar.png" group-title="Sport",AR: beIN Sports 5 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/516
+#EXTINF:-1 radio="false" tvg-name="AR: beIN Sports 6 HD" tvg-logo="https://tivivo.al/logokanale/bein6ar.png" group-title="Sport",AR: beIN Sports 6 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/517
+#EXTINF:-1 radio="false" tvg-name="AR: beIN Sports 7 HD" tvg-logo="https://tivivo.al/logokanale/bein7ar.png" group-title="Sport",AR: beIN Sports 7 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/518
+#EXTINF:-1 radio="false" tvg-name="AR: beIN Sports 8 HD" tvg-logo="https://tivivo.al/logokanale/bein8ar.png" group-title="Sport",AR: beIN Sports 8 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/519
+#EXTINF:-1 radio="false" tvg-name="AR: beIN Sports 9 HD" tvg-logo="https://tivivo.al/logokanale/bein9ar.png" group-title="Sport",AR: beIN Sports 9 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/520
+#EXTINF:-1 radio="false" tvg-name="AR: beIN Sports 10 HD" tvg-logo="https://tivivo.al/logokanale/bein10ar.png" group-title="Sport",AR: beIN Sports 10 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/521
+#EXTINF:-1 radio="false" tvg-name="UK: Sky Sports Arena HD" tvg-logo="https://tivivo.al/logokanale/skyarena.png" group-title="Sport",UK: Sky Sports Arena HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/1560
+#EXTINF:-1 radio="false" tvg-name="UK: Sky Sports Football HD" tvg-logo="https://tivivo.al/logokanale/skyfootball.png" group-title="Sport",UK: Sky Sports Football HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/1562
+#EXTINF:-1 radio="false" tvg-name="UK: Sky Sports Premier League HD" tvg-logo="https://tivivo.al/logokanale/premierleague.png" group-title="Sport",UK: Sky Sports Premier League HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/1567
+#EXTINF:-1 radio="false" tvg-name="UK: Sky Sports Main Event HD" tvg-logo="https://tivivo.al/logokanale/Main-Event.png" group-title="Sport",UK: Sky Sports Main Event HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/1563
+#EXTINF:-1 radio="false" tvg-name="UK: Sky Sports Mix HD" tvg-logo="https://tivivo.al/logokanale/skymix.png" group-title="Sport",UK: Sky Sports Mix HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/1565
+#EXTINF:-1 radio="false" tvg-name="UK: Sky Sports Golf HD" tvg-logo="https://tivivo.al/logokanale/skygolf.png" group-title="Sport",UK: Sky Sports Golf HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/1564
+#EXTINF:-1 radio="false" tvg-name="UK: Sky Sports F1 HD" tvg-logo="https://tivivo.al/logokanale/skyf1.png" group-title="Sport",UK: Sky Sports F1 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/1561
+#EXTINF:-1 radio="false" tvg-name="UK: Boxnation HD" tvg-logo="https://tivivo.al/logokanale/boxnation.png" group-title="Sport",UK: Boxnation HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/1542
+#EXTINF:-1 radio="false" tvg-name="UK: BT Sports 1 HD" tvg-logo="https://tivivo.al/logokanale/btsport1uk.png" group-title="Sport",UK: BT Sports 1 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/1543
+#EXTINF:-1 radio="false" tvg-name="UK: BT Sports 2 HD" tvg-logo="https://tivivo.al/logokanale/btsport2uk.png" group-title="Sport",UK: BT Sports 2 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/1544
+#EXTINF:-1 radio="false" tvg-name="UK: BT Sports 3 HD" tvg-logo="https://tivivo.al/logokanale/btsport3uk.png" group-title="Sport",UK: BT Sports 3 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/1545
+#EXTINF:-1 radio="false" tvg-name="UK: BT Sports ESPN HD" tvg-logo="https://tivivo.al/logokanale/btsportespn.png" group-title="Sport",UK: BT Sports ESPN HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/1546
+#EXTINF:-1 radio="false" tvg-name="PT: Eleven Sports 3 HD" tvg-logo="https://tivivo.al/logokanale/ElevenSports3.png" group-title="Sport",PT: Eleven Sports 3 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/1547
+#EXTINF:-1 radio="false" tvg-name="UK: Sky Sports News HD" tvg-logo="https://tivivo.al/logokanale/skynews.png" group-title="Sport",UK: Sky Sports News HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/1566
+#EXTINF:-1 radio="false" tvg-name="UK: Eurosport 1 HD" tvg-logo="https://tivivo.al/logokanale/eurosport-1.png" group-title="Sport",UK: Eurosport 1 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/1556
+#EXTINF:-1 radio="false" tvg-name="UK: Eurosport 2 HD" tvg-logo="https://tivivo.al/logokanale/eurosport-2.png" group-title="Sport",UK: Eurosport 2 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/1557
+#EXTINF:-1 radio="false" tvg-name="PT: Eleven Sports 2 HD" tvg-logo="https://tivivo.al/logokanale/ElevenSports_2.png" group-title="Sport",PT: Eleven Sports 2 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/1558
+#EXTINF:-1 radio="false" tvg-name="TR: A Spor HD" tvg-logo="https://tivivo.al/logokanale/aspor.png" group-title="Sport",TR: A Spor HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/537
+#EXTINF:-1 radio="false" tvg-name="TR: S Sport HD" tvg-logo="https://tivivo.al/logokanale/ssport1.png" group-title="Sport",TR: S Sport HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/533
+#EXTINF:-1 radio="false" tvg-name="TR: beIN Sports 1 HD" tvg-logo="https://tivivo.al/logokanale/bein1hd.png" group-title="Sport",TR: beIN Sports 1 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/523
+#EXTINF:-1 radio="false" tvg-name="TR: beIN Sports 2 HD" tvg-logo="https://tivivo.al/logokanale/bein2hd.png" group-title="Sport",TR: beIN Sports 2 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/524
+#EXTINF:-1 radio="false" tvg-name="TR: beIN Sports 3 HD" tvg-logo="https://tivivo.al/logokanale/bein3hd.png" group-title="Sport",TR: beIN Sports 3 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/525
+#EXTINF:-1 radio="false" tvg-name="TR: beIN Sports 4 HD" tvg-logo="https://tivivo.al/logokanale/bein4ar.png" group-title="Sport",TR: beIN Sports 4 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/526
+#EXTINF:-1 radio="false" tvg-name="TR: beIN Sports Haber HD" tvg-logo="https://tivivo.al/logokanale/beinsports_haber.png" group-title="Sport",TR: beIN Sports Haber HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/522
+#EXTINF:-1 radio="false" tvg-name="TR: beIN Sports Max 1 HD" tvg-logo="https://tivivo.al/logokanale/max1.png" group-title="Sport",TR: beIN Sports Max 1 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/527
+#EXTINF:-1 radio="false" tvg-name="TR: beIN Sports Max 2 HD" tvg-logo="https://tivivo.al/logokanale/max2.png" group-title="Sport",TR: beIN Sports Max 2 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/528
+#EXTINF:-1 radio="false" tvg-name="TR: Tivibu Sport 1 HD" tvg-logo="https://tivivo.al/logokanale/tivibu1.png" group-title="Sport",TR: Tivibu Sport 1 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/529
+#EXTINF:-1 radio="false" tvg-name="TR: Tivibu Sport 2 HD" tvg-logo="https://tivivo.al/logokanale/tivibu2.png" group-title="Sport",TR: Tivibu Sport 2 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/530
+#EXTINF:-1 radio="false" tvg-name="TR: Tivibu Sport 3 HD" tvg-logo="https://tivivo.al/logokanale/tivibu3.png" group-title="Sport",TR: Tivibu Sport 3 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/531
+#EXTINF:-1 radio="false" tvg-name="TR: Galatasaray TV HD" tvg-logo="https://tivivo.al/logokanale/gstv.png" group-title="Sport",TR: Galatasaray TV HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/535
+#EXTINF:-1 radio="false" tvg-name="PL: Polsat Sport HD" tvg-logo="https://tivivo.al/logokanale/polsatsport.png" group-title="Sport",PL: Polsat Sport HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/1806
+#EXTINF:-1 radio="false" tvg-name="PL: Eleven Sports 1 HD" tvg-logo="https://tivivo.al/logokanale/ElevenSports1x.png" group-title="Sport",PL: Eleven Sports 1 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/1813
+#EXTINF:-1 radio="false" tvg-name="PL: Eleven Sports 2 HD" tvg-logo="https://tivivo.al/logokanale/ElevenSports_2.png" group-title="Sport",PL: Eleven Sports 2 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/1814
+#EXTINF:-1 radio="false" tvg-name="PL: Eleven Sports 3 HD" tvg-logo="https://tivivo.al/logokanale/ElevenSports3.png" group-title="Sport",PL: Eleven Sports 3 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/1815
+#EXTINF:-1 radio="false" tvg-name="PL: Canal+ Sport 1 HD" tvg-logo="https://tivivo.al/logokanale/canalsport1pl.png" group-title="Sport",PL: Canal+ Sport 1 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/1817
+#EXTINF:-1 radio="false" tvg-name="PL: Canal+ Sport 2 HD" tvg-logo="https://tivivo.al/logokanale/canalsport2pl.png" group-title="Sport",PL: Canal+ Sport 2 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/1818
+#EXTINF:-1 radio="false" tvg-name="PL: TVP Sport HD" tvg-logo="https://tivivo.al/logokanale/NewTVP_SPORT.png" group-title="Sport",PL: TVP Sport HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/1821
+#EXTINF:-1 radio="false" tvg-name="PT: Sport TV 1 HD" tvg-logo="https://tivivo.al/logokanale/sportv1.png" group-title="Sport",PT: Sport TV 1 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/1833
+#EXTINF:-1 radio="false" tvg-name="PT: Sport TV 2 HD" tvg-logo="https://tivivo.al/logokanale/sportv2.png" group-title="Sport",PT: Sport TV 2 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/1834
+#EXTINF:-1 radio="false" tvg-name="PT: Sport TV 3 HD" tvg-logo="https://tivivo.al/logokanale/sportv3.png" group-title="Sport",PT: Sport TV 3 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/1835
+#EXTINF:-1 radio="false" tvg-name="PT: Sport TV 4 HD" tvg-logo="https://tivivo.al/logokanale/sportv4.png" group-title="Sport",PT: Sport TV 4 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/1836
+#EXTINF:-1 radio="false" tvg-name="PT: Sport TV 5 HD" tvg-logo="https://tivivo.al/logokanale/sportv5.png" group-title="Sport",PT: Sport TV 5 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/1837
+#EXTINF:-1 radio="false" tvg-name="PT: Eleven Sports 1 HD" tvg-logo="https://tivivo.al/logokanale/ElevenSports1x.png" group-title="Sport",PT: Eleven Sports 1 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/1554
+#EXTINF:-1 radio="false" tvg-name="CH: TeleClub Sport 1 HD" tvg-logo="https://i.postimg.cc/nrvcQWvq/teleclubsport1.png" group-title="Sport",CH: TeleClub Sport 1 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/1929
+#EXTINF:-1 radio="false" tvg-name="CH: TeleClub Sport 2 HD" tvg-logo="https://i.postimg.cc/FFcKqY21/teleclubsport2.png" group-title="Sport",CH: TeleClub Sport 2 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/1930
+#EXTINF:-1 radio="false" tvg-name="RO: Digi Sport 1 HD" tvg-logo="https://i.postimg.cc/YCFMsZ4g/Digi-sport-1.png" group-title="Sport",RO: Digi Sport 1 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/2088
+#EXTINF:-1 radio="false" tvg-name="RO: Digi Sport 2 HD" tvg-logo="https://i.postimg.cc/wvpXmCNk/digisport2.png" group-title="Sport",RO: Digi Sport 2 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/2089
+#EXTINF:-1 radio="false" tvg-name="RO: Digi Sport 3 HD" tvg-logo="https://i.postimg.cc/GhHyHLNC/digisport3.png" group-title="Sport",RO: Digi Sport 3 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/2090
+#EXTINF:-1 radio="false" tvg-name="US: UFC Fight Pass HD" tvg-logo="https://i.postimg.cc/52mYrXQ8/ufcfight.png" group-title="Sport",US: UFC Fight Pass HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/2054
+#EXTINF:-1 radio="false" tvg-name="BG: Diema Sport 1 HD" tvg-logo="https://tivivo.al/logokanale/diemasport1.png" group-title="Sport",BG: Diema Sport 1 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/658
+#EXTINF:-1 radio="false" tvg-name="BG: Diema Sport 2 HD" tvg-logo="https://tivivo.al/logokanale/diemasport2.png" group-title="Sport",BG: Diema Sport 2 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/659
+#EXTINF:-1 radio="false" tvg-name="BG: Eurosport 1 HD" tvg-logo="https://tivivo.al/logokanale/eurosport-1.png" group-title="Sport",BG: Eurosport 1 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/664
+#EXTINF:-1 radio="false" tvg-name="BG: Eurosport 2 HD" tvg-logo="https://tivivo.al/logokanale/eurosport-2.png" group-title="Sport",BG: Eurosport 2 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/665
+#EXTINF:-1 radio="false" tvg-name="BG: Max Sport 1 HD" tvg-logo="https://tivivo.al/logokanale/max-sport-1-logo-290x80px.png" group-title="Sport",BG: Max Sport 1 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/661
+#EXTINF:-1 radio="false" tvg-name="BG: Max Sport 2 HD" tvg-logo="https://tivivo.al/logokanale/Max-sport-2-new-logo.png" group-title="Sport",BG: Max Sport 2 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/662
+#EXTINF:-1 radio="false" tvg-name="FR: beIN Sports 1 HD" tvg-logo="https://tivivo.al/logokanale/bein1hd.png" group-title="Sport",FR: beIN Sports 1 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/538
+#EXTINF:-1 radio="false" tvg-name="FR: beIN Sports 2 HD" tvg-logo="https://tivivo.al/logokanale/bein2hd.png" group-title="Sport",FR: beIN Sports 2 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/539
+#EXTINF:-1 radio="false" tvg-name="FR: beIN Sports 3 HD" tvg-logo="https://tivivo.al/logokanale/bein3hd.png" group-title="Sport",FR: beIN Sports 3 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/540
+#EXTINF:-1 radio="false" tvg-name="FR: RMC Sport 1 HD" tvg-logo="https://tivivo.al/logokanale/rmc1.png" group-title="Sport",FR: RMC Sport 1 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/549
+#EXTINF:-1 radio="false" tvg-name="FR: RMC Sport 2 HD" tvg-logo="https://tivivo.al/logokanale/rmc2.png" group-title="Sport",FR: RMC Sport 2 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/550
+#EXTINF:-1 radio="false" tvg-name="FR: RMC Sport 3 HD" tvg-logo="https://tivivo.al/logokanale/rmc3.png" group-title="Sport",FR: RMC Sport 3 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/551
+#EXTINF:-1 radio="false" tvg-name="FR: RMC Sport 4 HD" tvg-logo="https://tivivo.al/logokanale/rmc4.png" group-title="Sport",FR: RMC Sport 4 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/552
+#EXTINF:-1 radio="false" tvg-name="FR: RMC Story HD" tvg-logo="https://tivivo.al/logokanale/rmcstory.png" group-title="Sport",FR: RMC Story HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/548
+#EXTINF:-1 radio="false" tvg-name="FR: beIN Max 4 HD" tvg-logo="https://tivivo.al/logokanale/bein4max.png" group-title="Sport",FR: beIN Max 4 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/541
+#EXTINF:-1 radio="false" tvg-name="FR: beIN Max 5 HD" tvg-logo="https://tivivo.al/logokanale/bein5max.png" group-title="Sport",FR: beIN Max 5 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/542
+#EXTINF:-1 radio="false" tvg-name="FR: beIN Max 6 HD" tvg-logo="https://tivivo.al/logokanale/bein6max.png" group-title="Sport",FR: beIN Max 6 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/543
+#EXTINF:-1 radio="false" tvg-name="FR: beIN Max 7 HD" tvg-logo="https://tivivo.al/logokanale/bein7max.png" group-title="Sport",FR: beIN Max 7 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/544
+#EXTINF:-1 radio="false" tvg-name="FR: beIN Max 8 HD" tvg-logo="https://tivivo.al/logokanale/bein8max.png" group-title="Sport",FR: beIN Max 8 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/545
+#EXTINF:-1 radio="false" tvg-name="FR: Eurosport 1 HD" tvg-logo="https://tivivo.al/logokanale/eurosport-1.png" group-title="Sport",FR: Eurosport 1 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/554
+#EXTINF:-1 radio="false" tvg-name="FR: Eurosport 2 HD" tvg-logo="https://tivivo.al/logokanale/eurosport-2.png" group-title="Sport",FR: Eurosport 2 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/555
+#EXTINF:-1 radio="false" tvg-name="TR: TRT Spor HD" tvg-logo="https://tivivo.al/logokanale/trtspor.png" group-title="Sport",TR: TRT Spor HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/536
+#EXTINF:-1 radio="false" tvg-name="BG: Nova Sport HD" tvg-logo="https://tivivo.al/logokanale/novasport.png" group-title="Sport",BG: Nova Sport HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/660
+#EXTINF:-1 radio="false" tvg-name="BG: Ring HD" tvg-logo="https://tivivo.al/logokanale/ring.png" group-title="Sport",BG: Ring HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/701
+#EXTINF:-1 radio="false" tvg-name="BG: Sport Plus " tvg-logo="https://tivivo.al/logokanale/sportplus.png" group-title="Sport",BG: Sport Plus
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/663
+#EXTINF:-1 radio="false" tvg-name="FR: Canal+ Sport HD" tvg-logo="https://tivivo.al/logokanale/Canal-Sport.png" group-title="Sport",FR: Canal+ Sport HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/556
+#EXTINF:-1 radio="false" tvg-name="FR: Infosport+ HD" tvg-logo="https://tivivo.al/logokanale/infosportplus.png" group-title="Sport",FR: Infosport+ HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/557
+#EXTINF:-1 radio="false" tvg-name="GR: Cosmote Sport 1 HD" tvg-logo="https://tivivo.al/logokanale/ote1.png" group-title="Sport",GR: Cosmote Sport 1 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/560
+#EXTINF:-1 radio="false" tvg-name="GR: Cosmote Sport 2 HD" tvg-logo="https://tivivo.al/logokanale/ote2.png" group-title="Sport",GR: Cosmote Sport 2 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/561
+#EXTINF:-1 radio="false" tvg-name="GR: Cosmote Sport 3 HD" tvg-logo="https://tivivo.al/logokanale/ote3.png" group-title="Sport",GR: Cosmote Sport 3 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/562
+#EXTINF:-1 radio="false" tvg-name="GR: Cosmote Sport 4 HD" tvg-logo="https://tivivo.al/logokanale/ote4.png" group-title="Sport",GR: Cosmote Sport 4 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/563
+#EXTINF:-1 radio="false" tvg-name="GR: Cosmote Sport 5 HD" tvg-logo="https://tivivo.al/logokanale/ote5.png" group-title="Sport",GR: Cosmote Sport 5 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/564
+#EXTINF:-1 radio="false" tvg-name="GR: Cosmote Sport 6 HD" tvg-logo="https://tivivo.al/logokanale/ote6.png" group-title="Sport",GR: Cosmote Sport 6 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/565
+#EXTINF:-1 radio="false" tvg-name="GR: Cosmote Sport 7 HD" tvg-logo="https://tivivo.al/logokanale/ote7.png" group-title="Sport",GR: Cosmote Sport 7 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/566
+#EXTINF:-1 radio="false" tvg-name="GR: Cosmote Sport 8 HD" tvg-logo="https://tivivo.al/logokanale/ote8.png" group-title="Sport",GR: Cosmote Sport 8 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/567
+#EXTINF:-1 radio="false" tvg-name="GR: Novasports 1 HD" tvg-logo="https://tivivo.al/logokanale/novasport1.png" group-title="Sport",GR: Novasports 1 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/569
+#EXTINF:-1 radio="false" tvg-name="GR: Novasports 2 HD" tvg-logo="https://tivivo.al/logokanale/novasport2.png" group-title="Sport",GR: Novasports 2 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/570
+#EXTINF:-1 radio="false" tvg-name="NL: Ziggo Sport Select HD" tvg-logo="https://tivivo.al/logokanale/ziggo-sport-select.png" group-title="Sport",NL: Ziggo Sport Select HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/1005
+#EXTINF:-1 radio="false" tvg-name="NL: Ziggo Sport Voetbal HD" tvg-logo="https://tivivo.al/logokanale/ziggo-sport-voetbal.png" group-title="Sport",NL: Ziggo Sport Voetbal HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/1006
+#EXTINF:-1 radio="false" tvg-name="NL: Ziggo Sport Racing HD" tvg-logo="https://tivivo.al/logokanale/ziggo-sport-racing.png" group-title="Sport",NL: Ziggo Sport Racing HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/1007
+#EXTINF:-1 radio="false" tvg-name="NL: Ziggo Sport Golf HD" tvg-logo="https://tivivo.al/logokanale/ziggo-sport-golf.png" group-title="Sport",NL: Ziggo Sport Golf HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/1008
+#EXTINF:-1 radio="false" tvg-name="NL: Ziggo Sport Extra HD" tvg-logo="https://tivivo.al/logokanale/ziggo-sport-extra.png" group-title="Sport",NL: Ziggo Sport Extra HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/1010
+#EXTINF:-1 radio="false" tvg-name="NL: ESPN Sport 1 HD" tvg-logo="https://tivivo.al/logokanale/espn1.png" group-title="Sport",NL: ESPN Sport 1 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/1012
+#EXTINF:-1 radio="false" tvg-name="NL: ESPN Sport 5 HD" tvg-logo="https://tivivo.al/logokanale/espn5.png" group-title="Sport",NL: ESPN Sport 5 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/1013
+#EXTINF:-1 radio="false" tvg-name="NL: ESPN Sport 4 HD" tvg-logo="https://tivivo.al/logokanale/espn4.png" group-title="Sport",NL: ESPN Sport 4 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/1014
+#EXTINF:-1 radio="false" tvg-name="NL: ESPN Sport 3 HD" tvg-logo="https://tivivo.al/logokanale/espn3.png" group-title="Sport",NL: ESPN Sport 3 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/1015
+#EXTINF:-1 radio="false" tvg-name="NL: ESPN Sport 2 HD" tvg-logo="https://tivivo.al/logokanale/espn2nl.png" group-title="Sport",NL: ESPN Sport 2 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/1016
+#EXTINF:-1 radio="false" tvg-name="NL: Eurosport 1 HD" tvg-logo="https://tivivo.al/logokanale/eurosport-1.png" group-title="Sport",NL: Eurosport 1 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/1048
+#EXTINF:-1 radio="false" tvg-name="NL: Eurosport 2 HD" tvg-logo="https://tivivo.al/logokanale/eurosport-2.png" group-title="Sport",NL: Eurosport 2 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/1049
+#EXTINF:-1 radio="false" tvg-name="NL: Extreme Sports HD" tvg-logo="https://tivivo.al/logokanale/extremesports.png" group-title="Sport",NL: Extreme Sports HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/1050
+#EXTINF:-1 radio="false" tvg-name="IT: Rai Sport+ HD" tvg-logo="https://tivivo.al/logokanale/raisport.png" group-title="Sport",IT: Rai Sport+ HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/1120
+#EXTINF:-1 radio="false" tvg-name="IT: Sky Sport 24 HD" tvg-logo="https://tivivo.al/logokanale/skysport24.png" group-title="Sport",IT: Sky Sport 24 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/1187
+#EXTINF:-1 radio="false" tvg-name="IT: Sky Sport Uno HD" tvg-logo="https://tivivo.al/logokanale/skysportuno.png" group-title="Sport",IT: Sky Sport Uno HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/1189
+#EXTINF:-1 radio="false" tvg-name="IT: Sky Sport Football HD" tvg-logo="https://tivivo.al/logokanale/skysportfootball.png" group-title="Sport",IT: Sky Sport Football HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/1190
+#EXTINF:-1 radio="false" tvg-name="IT: Sky Sport Serie A HD" tvg-logo="https://tivivo.al/logokanale/skysportseria.png" group-title="Sport",IT: Sky Sport Serie A HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/1191
+#EXTINF:-1 radio="false" tvg-name="IT: Sky Sport Arena HD" tvg-logo="https://tivivo.al/logokanale/skysportarena.png" group-title="Sport",IT: Sky Sport Arena HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/1192
+#EXTINF:-1 radio="false" tvg-name="IT: Sky Sport NBA HD" tvg-logo="https://tivivo.al/logokanale/skysportnba.png" group-title="Sport",IT: Sky Sport NBA HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/1193
+#EXTINF:-1 radio="false" tvg-name="IT: Sky Sport F1 HD" tvg-logo="https://tivivo.al/logokanale/skysportf1.png" group-title="Sport",IT: Sky Sport F1 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/1195
+#EXTINF:-1 radio="false" tvg-name="IT: Super Tennis HD" tvg-logo="https://tivivo.al/logokanale/supertennis.png" group-title="Sport",IT: Super Tennis HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/1199
+#EXTINF:-1 radio="false" tvg-name="IT: Eurosport 1 HD" tvg-logo="https://tivivo.al/logokanale/eurosport-1.png" group-title="Sport",IT: Eurosport 1 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/1200
+#EXTINF:-1 radio="false" tvg-name="IT: Eurosport 2 HD" tvg-logo="https://tivivo.al/logokanale/eurosport-2.png" group-title="Sport",IT: Eurosport 2 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/1201
+#EXTINF:-1 radio="false" tvg-name="PL: Polsat Sport Extra HD" tvg-logo="https://tivivo.al/logokanale/polsatsportextra.jpg" group-title="Sport",PL: Polsat Sport Extra HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/1781
+#EXTINF:-1 radio="false" tvg-name="PL: Polsat Sport Fight HD" tvg-logo="https://tivivo.al/logokanale/polsatfight.jpg" group-title="Sport",PL: Polsat Sport Fight HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/1782
+#EXTINF:-1 radio="false" tvg-name="US: NBA TV" tvg-logo="https://tivivo.al/logokanale/nbatv.png" group-title="Sport",US: NBA TV
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/2686
+#EXTINF:-1 radio="false" tvg-name="AR: beIN Sports Premium 1 HD" group-title="Sport",AR: beIN Sports Premium 1 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/2690
+#EXTINF:-1 radio="false" tvg-name="AR: beIN Sports Premium 2 HD" group-title="Sport",AR: beIN Sports Premium 2 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/2691
+#EXTINF:-1 radio="false" tvg-name="AR: beIN Sports Premium 3 HD" group-title="Sport",AR: beIN Sports Premium 3 HD
+http://restream.tivivo.cc:25461/BdIjOm4sLn/1MFDsv2Ybe/2692
